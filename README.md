@@ -11,3 +11,10 @@ I used it with a parameter firstFrame and lastFrame because I want control over 
 I'm not too happy with the result because a black screen appears at the end of the video. If you know how to fix it, please open an issue or contact me. 
 
 Feel free to use my code. 
+
+
+## How to run it
+
+Simply open index.html
+
+Recording parameters are a the start of sketch.js
