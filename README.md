@@ -17,4 +17,4 @@ Feel free to use my code.
 
 Simply open index.html
 
-Recording parameters are a the start of sketch.js
+Recording parameters are at the start of sketch.js
